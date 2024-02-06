@@ -59,7 +59,7 @@
 <a href="https://www.instagram.com/winny_satharasinghe/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
   <a href="https://www.hackerrank.com/vinnath satharasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vinnath satharasinghe" height="30" width="40" /></a>
   <a href="https://medium.com/@vinnathninura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vinnathninura" height="30" width="40" /></a>
-  <a href="[https://kaggle.com/vinnath satharasinghe](https://www.kaggle.com/vinnathsatharasinghe)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vinnath satharasinghe" height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/vinnathsatharasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vinnath satharasinghe" height="30" width="40" /></a>
 </p>
 
 ---
