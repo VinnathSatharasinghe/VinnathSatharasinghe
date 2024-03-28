@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 **Web Development**
 
 - 💬 Ask me about **Frontend & MERN**
 
