@@ -36,20 +36,6 @@
 <tr border="none">
 <td width="50%" align="center">
 
-<h3 align="center">🚀 Deployment Status</h3>
-<p align="center">
-  <a href="https://github.com/vinnathsatharasinghe/repo1">
-    <img src="https://github.com/vinnathsatharasinghe/repo1/actions/workflows/deploy.yml/badge.svg" alt="Repo 1 Deployment Status" />
-  </a>
-  <a href="https://github.com/vinnathsatharasinghe/repo2">
-    <img src="https://github.com/vinnathsatharasinghe/repo2/actions/workflows/deploy.yml/badge.svg" alt="Repo 2 Deployment Status" />
-  </a>
-  <a href="https://github.com/vinnathsatharasinghe/repo3">
-    <img src="https://github.com/vinnathsatharasinghe/repo3/actions/workflows/deploy.yml/badge.svg" alt="Repo 3 Deployment Status" />
-  </a>
-</p>
-
-
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=vinnathsatharasinghe&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vinnathsatharasinghe&theme=dark&hide_border=false" /> 
