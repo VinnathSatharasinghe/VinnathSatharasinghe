@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vinnath Satharasinghe</h1>
 <h3 align="center">Passionate Web Developer | Exploring the Boundless World of Technology</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinnathsatharasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="vinnathsatharasinghe" /> </p>
-
+  
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
@@ -35,6 +35,20 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
+
+<h3 align="center">🚀 Deployment Status</h3>
+<p align="center">
+  <a href="https://github.com/vinnathsatharasinghe/repo1">
+    <img src="https://github.com/vinnathsatharasinghe/repo1/actions/workflows/deploy.yml/badge.svg" alt="Repo 1 Deployment Status" />
+  </a>
+  <a href="https://github.com/vinnathsatharasinghe/repo2">
+    <img src="https://github.com/vinnathsatharasinghe/repo2/actions/workflows/deploy.yml/badge.svg" alt="Repo 2 Deployment Status" />
+  </a>
+  <a href="https://github.com/vinnathsatharasinghe/repo3">
+    <img src="https://github.com/vinnathsatharasinghe/repo3/actions/workflows/deploy.yml/badge.svg" alt="Repo 3 Deployment Status" />
+  </a>
+</p>
+
 
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=vinnathsatharasinghe&theme=dark&show_icons=true&count_private=true" />
   <br></br>
