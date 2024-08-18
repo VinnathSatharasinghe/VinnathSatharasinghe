@@ -36,8 +36,6 @@
 <tr border="none">
 <td width="50%" align="center">
 
-![Deployment Status](https://github.com/your-username/your-repo-name/actions/workflows/deploy.yml/badge.svg)
-
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=vinnathsatharasinghe&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vinnathsatharasinghe&theme=dark&hide_border=false" /> 
