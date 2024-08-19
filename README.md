@@ -59,8 +59,8 @@
 </tr>
 </table>
 
-<table>
-<td width="100%" align="center">
+<table align="center">
+<td width="50%" align="center">
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
