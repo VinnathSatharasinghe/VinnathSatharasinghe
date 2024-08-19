@@ -33,7 +33,7 @@ ________________________________________________________________________________
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinnathsatharasinghe&theme=codeSTACKr)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinnathsatharasinghe&theme)
 
 
 </div>
