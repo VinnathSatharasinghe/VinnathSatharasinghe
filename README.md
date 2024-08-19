@@ -104,13 +104,13 @@ ________________________________________________________________________________
 <img alt="HTML" src="https://img.shields.io/badge/Html-%23FF6F00.svg?style=for-the-badge&logo=Html&logoColor=white" /> &ensp;
 <img alt="JSON" src="https://img.shields.io/badge/Json-%23FF6F00.svg?style=for-the-badge&logo=Json&logoColor=white" /> &ensp;
 <img alt="TS" src="https://img.shields.io/badge/typescript-%23FF6F00.svg?style=for-the-badge&logo=typescript&logoColor=white" /> &ensp;
-<img alt="JSX" src="https://img.shields.io/badge/JSX-%23FF6F00.svg?style=for-the-badge&logo=JSX&logoColor=white" /> &ensp;
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a> &ensp;
 
 
 
-### Frameworks and Software 🦾⚔️🔗
-<img alt="ROS" src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white"/> &ensp;
-<img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/> &ensp;
+### Frontend Frameworks & Libraries 🦾⚔️🔗
+<img alt="React" src="https://img.shields.io/badge/react-%230A0FF9.svg?style=for-the-badge&logo=react&logoColor=white"/> &ensp;
+<img alt="Redux" src="https://img.shields.io/badge/redux-%23white.svg?style=for-the-badge&logo=redux&logoColor=white"/> &ensp;
 <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/> &ensp;
 <img alt="CMake" src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"/> &ensp;
 
