@@ -104,8 +104,8 @@ ________________________________________________________________________________
 <img alt="HTML" src="https://img.shields.io/badge/Html-%23FF6F00.svg?style=for-the-badge&logo=Html&logoColor=white" /> &ensp;
 <img alt="JSON" src="https://img.shields.io/badge/Json-%23FF6F00.svg?style=for-the-badge&logo=Json&logoColor=white" /> &ensp;
 <img alt="TS" src="https://img.shields.io/badge/typescript-%23FF6F00.svg?style=for-the-badge&logo=typescript&logoColor=white" /> &ensp;
-<img alt="TS" src="https://img.shields.io/badge/typescript-%23FF6F00.svg?style=for-the-badge&logo=typescript&logoColor=white" /> &ensp;
-<img alt="TS" src="https://img.shields.io/badge/-%23FF6F00.svg?style=for-the-badge&logo=typescript&logoColor=white" /> &ensp;
+<img alt="JSX" src="https://img.shields.io/badge/JSX-%23FF6F00.svg?style=for-the-badge&logo=JSX&logoColor=white" /> &ensp;
+
 
 
 ### Frameworks and Software 🦾⚔️🔗
