@@ -130,8 +130,9 @@ ________________________________________________________________________________
 <img src="https://img.shields.io/badge/Cypress-46a2f1?style=for-the-badge&logo=cypress&logoColor=white"/> &ensp;
 <img src="https://img.shields.io/badge/React-Testing-46a2f1?style=for-the-badge&logo=testing-library&logoColor=white"/> &ensp;
 
-</div>
 ______________________________________________________________________________________________________
+
+</div>
 
 
 
