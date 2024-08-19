@@ -79,8 +79,9 @@ ________________________________________________________________________________
   <a href="https://medium.com/@vinnathninura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vinnathninura" height="30" width="40" /></a>
   <a href="https://www.kaggle.com/vinnathsatharasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vinnath satharasinghe" height="30" width="40" /></a>
 </p>
-______________________________________________________________________________________________________
+
 </td>
+______________________________________________________________________________________________________
 </table>
 
 
