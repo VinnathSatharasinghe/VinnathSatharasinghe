@@ -49,7 +49,8 @@ ________________________________________________________________________________
 
 </div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinnathsatharasinghe=solarized)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinnathsatharasinghe=buefy)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinnathsatharasinghe=moltack)|
+
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nilutpolkashyap&theme=solarized)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nilutpolkashyap&theme=buefy)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nilutpolkashyap&theme=moltack)|
 |-----|------|------|
 
 <!-- ______________________________________________________________________________________________________ -->
