@@ -138,13 +138,6 @@ ________________________________________________________________________________
 <img src="https://img.shields.io/badge/Jest-46a2f1?style=for-the-badge&logo=jest&logoColor=white"/> &ensp;
 <img src="https://img.shields.io/badge/Cypress-46a2f1?style=for-the-badge&logo=cypress&logoColor=white"/> &ensp;
 <img src="https://img.shields.io/badge/React-Testing-46a2f1?style=for-the-badge&logo=testing-library&logoColor=white"/> &ensp;
-
-
-### Hardware 🦿 🫀
-<img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white"/> &ensp;
-<img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/> &ensp;
-<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> &ensp;
-
 ______________________________________________________________________________________________________
 
 
