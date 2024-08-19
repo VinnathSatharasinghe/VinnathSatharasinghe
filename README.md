@@ -55,8 +55,6 @@ ________________________________________________________________________________
 
 <!-- ______________________________________________________________________________________________________ -->
 
-
-<h3 align="center">My Statistics</h3>
 <p align="center">
 <table align="center">
 <tr border="none">
@@ -101,7 +99,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________
 
 
-<h1 align="center"><b> 🤖🖱️My Tech Stack💻✉️ </b></h1>
+<h3 align="center"><b> 🤖🖱️My Tech Stack💻✉️ </b></h3>
 
 ### Programming Languages 🧑‍💻 ⌨️ 🖱️
 <a href="https://github.com/nilutpolkashyap?tab=repositories&q=&type=&language=c%2B%2B&sort="><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a> &ensp;
