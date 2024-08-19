@@ -30,6 +30,43 @@
 
 ---
 
+______________________________________________________________________________________________________
+
+ <h1 align="center"><b> 📈My Github Stats📊 </b></h1> 
+
+<!-- <div >
+<a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&layout=compact&langs_count=5&show_icons=true&theme=maroongold" width="43%"/>
+</a>  
+  <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&theme=great-gatsby" alt="Nilutpol's GitHub Stats" width="51%"/>
+</a> 
+</div> -->
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nilutpolkashyap&theme=codeSTACKr)
+
+</div>
+
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nilutpolkashyap&theme=solarized)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nilutpolkashyap&theme=buefy)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nilutpolkashyap&theme=moltack)|
+|-----|------|------|
+
+<div align="center">
+
+<a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nilutpolkashyap&bg_color=05a187&title_color=FFFFFF&area=true&area_color=2d04fd&custom_title=Nilutpol%20Kashyap's%20Github%20Activity%20Graph&hide_border=true&theme=monokai" alt="Nilutpol's GitHub Stats" width="85%"/>
+</a>
+  
+<a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nilutpolkashyap&theme=buefy" alt="Nilutpol's GitHub Stats" width="60%"/>
+</a>
+    
+</div>
+
+<!-- ______________________________________________________________________________________________________ -->
+
+
 <h3 align="center">My Statistics</h3>
 <p align="center">
 <table align="center">
