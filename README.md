@@ -122,12 +122,12 @@ ________________________________________________________________________________
 <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/> &ensp;
 
 ### Backend & Full-Stack 💥 ⚔️
-<img src="https://img.shields.io/badge/Node-Js-46a2f1?style=flat-square&logo=node&logoColor=white"/> &ensp;
-<img src="https://img.shields.io/badge/Express-Js-46a2f1?style=flat-square&logo=express&logoColor=white"/> &ensp;
-<img src="https://img.shields.io/badge/MongoDB-46a2f1?style=flat-square&logo=mongodb&logoColor=white"/> &ensp;
-<img src="https://img.shields.io/badge/Graph-QL-46a2f1?style=flat-square&logo=graphql&logoColor=white"/> &ensp;
-<img src="https://img.shields.io/badge/Firebase-46a2f1?style=flat-square&logo=firebase&logoColor=white"/> &ensp;
-<img src="https://img.shields.io/badge/Socket.IO-46a2f1?style=flat-square&logo=Socket.IO&logoColor=white"/> &ensp;
+<img src="https://img.shields.io/badge/Node-Js-46a2f1?style=for-the-badge&logo=node&logoColor=white"/> &ensp;
+<img src="https://img.shields.io/badge/Express-Js-46a2f1?style=for-the-badge&logo=express&logoColor=white"/> &ensp;
+<img src="https://img.shields.io/badge/MongoDB-46a2f1?style=for-the-badge&logo=mongodb&logoColor=white"/> &ensp;
+<img src="https://img.shields.io/badge/Graph-QL-46a2f1?style=for-the-badge&logo=graphql&logoColor=white"/> &ensp;
+<img src="https://img.shields.io/badge/Firebase-46a2f1?style=for-the-badge&logo=firebase&logoColor=white"/> &ensp;
+<img src="https://img.shields.io/badge/Socket.IO-46a2f1?style=for-the-badge&logo=Socket.IO&logoColor=white"/> &ensp;
 
 ### Hardware 🦿 🫀
 <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white"/> &ensp;
