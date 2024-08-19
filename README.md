@@ -122,7 +122,7 @@ ________________________________________________________________________________
 <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/> &ensp;
 
 ### Backend & Full-Stack 💥 ⚔️
-<img src="https://img.shields.io/badge/Node-46a2f1?style=flat-square&logo=node&logoColor=white"/> &ensp;
+<img src="https://img.shields.io/badge/-Node-46a2f1?style=flat-square&logo=node&logoColor=white"/> &ensp;
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> &ensp;
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> &ensp;
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> &ensp;
