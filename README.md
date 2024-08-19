@@ -123,7 +123,7 @@ ________________________________________________________________________________
 <img src="https://img.shields.io/badge/Webpack-46a2f1?style=for-the-badge&logo=webpack&logoColor=white"/> &ensp;
 <img src="https://img.shields.io/badge/Babel-46a2f1?style=for-the-badge&logo=babel&logoColor=white"/> &ensp;
 <img src="https://img.shields.io/badge/Vite-46a2f1?style=for-the-badge&logo=vite&logoColor=white"/> &ensp;
-<img src="https://img.shields.io/badge/Npm-Yarn-46a2f1?style=for-the-badge&logo=npm-yarn&logoColor=white"/> &ensp;
+<img src="https://img.shields.io/badge/Npm-Yarn-46a2f1?style=for-the-badge&logo=npm&logoColor=white"/> &ensp;
 
 ### Backend & Full-Stack 💥 ⚔️
 <img src="https://img.shields.io/badge/Node-Js-46a2f1?style=for-the-badge&logo=node&logoColor=white"/> &ensp;
