@@ -37,9 +37,7 @@ ________________________________________________________________________________
 <!-- <div >
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnathsatharasinghe&layout=compact&langs_count=5&show_icons=true&theme=maroongold" width="43%"/>
   
-  <a href="https://github.com/vinnathsatharasinghe/vinnathsatharasinghe">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=vinnathsatharasinghe&show_icons=true&theme=great-gatsby" alt="vinnathsatharasinghe GitHub Stats" width="51%"/>
-</a> 
 </div> -->
 
 <div align="center">
