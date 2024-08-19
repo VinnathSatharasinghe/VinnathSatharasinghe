@@ -106,8 +106,6 @@ ________________________________________________________________________________
 <img alt="TS" src="https://img.shields.io/badge/typescript-%23FF6F00.svg?style=for-the-badge&logo=typescript&logoColor=white" /> &ensp;
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a> &ensp;
 
-
-
 ### Frontend Frameworks & Libraries 🦾⚔️🔗
 <img alt="React" src="https://img.shields.io/badge/react-%230A0FF9.svg?style=for-the-badge&logo=react&logoColor=white"/> &ensp;
 <img alt="Redux" src="https://img.shields.io/badge/redux-C51A4A.svg?style=for-the-badge&logo=redux&logoColor=white"/> &ensp;
@@ -120,6 +118,12 @@ ________________________________________________________________________________
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> &ensp;
 <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> &ensp;
 <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/> &ensp;
+
+### Build Tools and Package Managers
+<img src="https://img.shields.io/badge/Webpack-46a2f1?style=for-the-badge&logo=webpack&logoColor=white"/> &ensp;
+<img src="https://img.shields.io/badge/Babel-46a2f1?style=for-the-badge&logo=babel&logoColor=white"/> &ensp;
+<img src="https://img.shields.io/badge/Vite-46a2f1?style=for-the-badge&logo=vite&logoColor=white"/> &ensp;
+<img src="https://img.shields.io/badge/Npm-Yarn-46a2f1?style=for-the-badge&logo=npm-yarn&logoColor=white"/> &ensp;
 
 ### Backend & Full-Stack 💥 ⚔️
 <img src="https://img.shields.io/badge/Node-Js-46a2f1?style=for-the-badge&logo=node&logoColor=white"/> &ensp;
