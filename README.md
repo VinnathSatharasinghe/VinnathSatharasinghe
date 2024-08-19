@@ -112,7 +112,7 @@ ________________________________________________________________________________
 <img alt="React" src="https://img.shields.io/badge/react-%230A0FF9.svg?style=for-the-badge&logo=react&logoColor=white"/> &ensp;
 <img alt="Redux" src="https://img.shields.io/badge/redux-%23white.svg?style=for-the-badge&logo=redux&logoColor=white"/> &ensp;
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23000.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> &ensp;
-<img alt="Tailwind" src="https://img.shields.io/badge/tailwind-%23008FBA.svg?style=for-the-badge&logo=tailwind&logoColor=white"/> &ensp;
+<img alt="Tailwind" src="https://img.shields.io/badge/tailwind-css-%23008FBA.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> &ensp;
 
 ### Machine Learning/ Deep Learning 🧠 👁️ 🤔
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /> &ensp;
