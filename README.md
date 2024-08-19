@@ -99,13 +99,11 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________
 
 
-<h3 align="center"><b> 🤖🖱️My Tech Stack💻✉️ </b></h3>
-
-### Programming Languages 🧑‍💻 ⌨️ 🖱️
-<a href="https://github.com/nilutpolkashyap?tab=repositories&q=&type=&language=c%2B%2B&sort="><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a> &ensp;
+###  Languages and Technologies 🧑‍💻 ⌨️ 🖱️
+<a href="https://github.com/nilutpolkashyap?tab=repositories&q=&type=&language=c%2B%2B&sort="><img alt="Js" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a> &ensp;
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a> &ensp;
 
-### Frameworks/Softwares 🦾⚔️🔗
+### Frameworks and Software 🦾⚔️🔗
 <img alt="ROS" src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white"/> &ensp;
 <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/> &ensp;
 <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/> &ensp;
