@@ -91,9 +91,8 @@ ________________________________________________________________________________
 </td>
 </table>
 
-
-
-<div align="center">
+<table align="center">
+<td width="50%" align="center">
 
 ###  Languages and Technologies 🧑‍💻 ⌨️ 🖱️
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23FF6F00.svg?style=for-the-badge&logo=JavaScript&logoColor=white" /> &ensp;
@@ -137,7 +136,8 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________
 
-</div>
+</td>
+</table>
 
 
 
