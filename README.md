@@ -23,16 +23,13 @@
 
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
-  
   </td>
 </tr>
 </table>
 
----
-
 ______________________________________________________________________________________________________
 
- <h1 align="center"><b> 📈My Github Stats📊 </b></h1> 
+ <h2 align="center"><b> 📈My Github Stats📊 </b></h2> 
 
 <!-- <div >
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnathsatharasinghe&layout=compact&langs_count=5&show_icons=true&theme=maroongold" width="43%"/>
@@ -42,7 +39,7 @@ ________________________________________________________________________________
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinnathsatharasinghe&theme=codeSTACKr)
+
 
 </div>
 
