@@ -54,7 +54,7 @@
 <td width="50%" align="center">
 
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vinnathsatharasinghe&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+  ______________________________________________________________________________________________________
   </td>
 </tr>
 </table>
@@ -71,7 +71,7 @@
   <a href="https://medium.com/@vinnathninura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vinnathninura" height="30" width="40" /></a>
   <a href="https://www.kaggle.com/vinnathsatharasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vinnath satharasinghe" height="30" width="40" /></a>
 </p>
-
+______________________________________________________________________________________________________
 </td>
 </table>
 
