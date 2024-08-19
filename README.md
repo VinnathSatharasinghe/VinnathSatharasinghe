@@ -101,7 +101,7 @@ ________________________________________________________________________________
 
 ###  Languages and Technologies 🧑‍💻 ⌨️ 🖱️
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23FF6F00.svg?style=for-the-badge&logo=JavaScript&logoColor=white" /> &ensp;
-<img alt="HTML" src="https://img.shields.io/badge/html-5-%23FF6F00.svg?style=for-the-badge&logo=html-5&logoColor=white" /> &ensp;
+<img alt="HTML" src="https://img.shields.io/badge/Html-5-%23FF6F00.svg?style=for-the-badge&logo=Html-5&logoColor=white" /> &ensp;
 <img alt="JSON" src="https://img.shields.io/badge/Json-%23FF6F00.svg?style=for-the-badge&logo=Json&logoColor=white" /> &ensp;
 <img alt="TS" src="https://img.shields.io/badge/typescript-%23FF6F00.svg?style=for-the-badge&logo=typescript&logoColor=white" /> &ensp;
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a> &ensp;
