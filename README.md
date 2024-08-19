@@ -59,7 +59,7 @@
 </tr>
 </table>
 
----
+<table>
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
@@ -71,7 +71,7 @@
   <a href="https://www.kaggle.com/vinnathsatharasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vinnath satharasinghe" height="30" width="40" /></a>
 </p>
 
----
+</table>
 
 <p align="center"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
