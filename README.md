@@ -26,7 +26,6 @@
   ______________________________________________________________________________________________________
 
 </td>
-</tr>
 </table>
 
  <h2 align="center"><b> 📈My Github Stats📊 </b></h2> 
@@ -40,7 +39,6 @@
 
 ______________________________________________________________________________________________________
 </td>
-</tr>
 </table>
 
 
@@ -52,7 +50,6 @@ ________________________________________________________________________________
 
 <p align="center">
 <table align="center">
-<tr border="none">
 <td width="50%" align="center">
 
   <img  align="center" src="https://github-readme-stats.vercel.app/api?username=vinnathsatharasinghe&theme=dark&show_icons=true&count_private=true" />
@@ -64,7 +61,6 @@ ________________________________________________________________________________
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vinnathsatharasinghe&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
 </td>
-</tr>
 </table>
 
 <table align="center">
@@ -80,13 +76,12 @@ ________________________________________________________________________________
   <a href="https://www.kaggle.com/vinnathsatharasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vinnath satharasinghe" height="30" width="40" /></a>
 </p>
 
-</td>
 ______________________________________________________________________________________________________
+</td>
 </table>
 
 
 <table align="center">
-<tr border="none">
 <td width="50%" align="center">
 
 <p align="center"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
@@ -96,7 +91,6 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________
 </td>
-</tr>
 </table>
 
 
