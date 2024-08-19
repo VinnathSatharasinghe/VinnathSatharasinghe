@@ -33,7 +33,7 @@ ________________________________________________________________________________
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinnathsatharasinghe&theme)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinnathsatharasinghe&theme=codeSTACKr)
 
 
 </div>
@@ -88,6 +88,8 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________
 
 
+<div align="center">
+
 ###  Languages and Technologies 🧑‍💻 ⌨️ 🖱️
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23FF6F00.svg?style=for-the-badge&logo=JavaScript&logoColor=white" /> &ensp;
 <img alt="HTML" src="https://img.shields.io/badge/Html-5-%23FF6F00.svg?style=for-the-badge&logo=Html-5&logoColor=white" /> &ensp;
@@ -127,6 +129,8 @@ ________________________________________________________________________________
 <img src="https://img.shields.io/badge/Jest-46a2f1?style=for-the-badge&logo=jest&logoColor=white"/> &ensp;
 <img src="https://img.shields.io/badge/Cypress-46a2f1?style=for-the-badge&logo=cypress&logoColor=white"/> &ensp;
 <img src="https://img.shields.io/badge/React-Testing-46a2f1?style=for-the-badge&logo=testing-library&logoColor=white"/> &ensp;
+
+</div>
 ______________________________________________________________________________________________________
 
 
