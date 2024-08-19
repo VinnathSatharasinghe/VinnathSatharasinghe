@@ -49,21 +49,6 @@ ________________________________________________________________________________
 
 </div>
 
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nilutpolkashyap&theme=solarized)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nilutpolkashyap&theme=buefy)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nilutpolkashyap&theme=moltack)|
-|-----|------|------|
-
-<div align="center">
-
-<a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nilutpolkashyap&bg_color=05a187&title_color=FFFFFF&area=true&area_color=2d04fd&custom_title=Nilutpol%20Kashyap's%20Github%20Activity%20Graph&hide_border=true&theme=monokai" alt="Nilutpol's GitHub Stats" width="85%"/>
-</a>
-  
-<a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nilutpolkashyap&theme=buefy" alt="Nilutpol's GitHub Stats" width="60%"/>
-</a>
-    
-</div>
-
 <!-- ______________________________________________________________________________________________________ -->
 
 
