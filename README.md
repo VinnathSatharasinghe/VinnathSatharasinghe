@@ -100,8 +100,9 @@ ________________________________________________________________________________
 
 
 ###  Languages and Technologies 🧑‍💻 ⌨️ 🖱️
-<img alt="TensorFlow" src="https://img.shields.io/badge/JavaScript-%23FF6F00.svg?style=for-the-badge&logo=JavaScript&logoColor=white" /> &ensp;
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a> &ensp;
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23FF6F00.svg?style=for-the-badge&logo=JavaScript&logoColor=white" /> &ensp;
+<img alt="HTML" src="https://img.shields.io/badge/HTML-%23FF6F00.svg?style=for-the-badge&logo=HTML&logoColor=white" /> &ensp;
+
 
 ### Frameworks and Software 🦾⚔️🔗
 <img alt="ROS" src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white"/> &ensp;
