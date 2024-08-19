@@ -35,21 +35,21 @@ ________________________________________________________________________________
  <h1 align="center"><b> 📈My Github Stats📊 </b></h1> 
 
 <!-- <div >
-<a href="https://github.com/VinnathSatharasinghe/VinnathSatharasinghe">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinnathSatharasinghe=compact&langs_count=5&show_icons=true&theme=maroongold" width="43%"/>
+<a href="https://github.com/vinnathsatharasinghe/vinnathsatharasinghe">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnathSatharasinghe=compact&langs_count=5&show_icons=true&theme=maroongold" width="43%"/>
 </a>  
-  <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&theme=great-gatsby" alt="Nilutpol's GitHub Stats" width="51%"/>
+  <a href="https://github.com/vinnathsatharasinghe/vinnathsatharasinghe">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=vinnathsatharasinghe&show_icons=true&theme=great-gatsby" alt="Nilutpol's GitHub Stats" width="51%"/>
 </a> 
 </div> -->
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VinnathSatharasinghe=codeSTACKr)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinnathsatharasinghe=codeSTACKr)
 
 </div>
 
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VinnathSatharasinghe=solarized)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VinnathSatharasinghe=buefy)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VinnathSatharasinghe=moltack)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinnathSatharasinghe=solarized)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinnathsatharasinghe=buefy)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinnathSatharasinghe=moltack)|
 |-----|------|------|
 
 <!-- ______________________________________________________________________________________________________ -->
