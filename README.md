@@ -31,14 +31,9 @@ ________________________________________________________________________________
 
  <h2 align="center"><b> 📈My Github Stats📊 </b></h2> 
 
-<!-- <div >
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnathsatharasinghe&layout=compact&langs_count=5&show_icons=true&theme=maroongold" width="43%"/>
-  
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=vinnathsatharasinghe&show_icons=true&theme=great-gatsby" alt="vinnathsatharasinghe GitHub Stats" width="51%"/>
-</div> -->
-
 <div align="center">
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinnathsatharasinghe&theme=codeSTACKr)
 
 
 </div>
