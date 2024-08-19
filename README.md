@@ -134,10 +134,10 @@ ________________________________________________________________________________
 <img src="https://img.shields.io/badge/Firebase-46a2f1?style=for-the-badge&logo=firebase&logoColor=white"/> &ensp;
 <img src="https://img.shields.io/badge/Socket.IO-46a2f1?style=for-the-badge&logo=Socket.IO&logoColor=white"/> &ensp;
 
-###Testing Frameworks
+### Testing Frameworks
 <img src="https://img.shields.io/badge/Jest-46a2f1?style=for-the-badge&logo=jest&logoColor=white"/> &ensp;
 <img src="https://img.shields.io/badge/Cypress-46a2f1?style=for-the-badge&logo=cypress&logoColor=white"/> &ensp;
-<img src="https://img.shields.io/badge/React-Testing-Library-46a2f1?style=for-the-badge&logo=reacttestinglibrary&logoColor=white"/> &ensp;
+<img src="https://img.shields.io/badge/React-Testing-Library-46a2f1?style=for-the-badge&logo=react-testing-library&logoColor=white"/> &ensp;
 
 ### Hardware 🦿 🫀
 <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white"/> &ensp;
