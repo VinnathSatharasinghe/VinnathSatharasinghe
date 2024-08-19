@@ -114,7 +114,7 @@ ________________________________________________________________________________
 
 ### Machine Learning/ Deep Learning 🧠 👁️ 🤔
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /> &ensp;
-<img alt="ml5" src="https://img.shields.io/badge/ml5-%23FF6F00.svg?style=for-the-badge&logo=ml5&logoColor=white" /> &ensp;
+<img alt="ml5" src="https://img.shields.io/badge/ML-5-%23FF6F00.svg?style=for-the-badge&logo=ml-5&logoColor=white" /> &ensp;
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /> &ensp;
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> &ensp;
 <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> &ensp;
