@@ -126,6 +126,12 @@ ________________________________________________________________________________
 <img src="https://img.shields.io/badge/Express-Js-46a2f1?style=flat-square&logo=express&logoColor=white"/> &ensp;
 <img src="https://img.shields.io/badge/MongoDB-46a2f1?style=flat-square&logo=mongodb&logoColor=white"/> &ensp;
 
+<img src="https://img.shields.io/badge/GraphQL-46a2f1?style=flat-square&logo=graphql&logoColor=white"/> &ensp;
+<img src="https://img.shields.io/badge/Firebase-46a2f1?style=flat-square&logo=firebase&logoColor=white"/> &ensp;
+<img src="https://img.shields.io/badge/Socket.IO-46a2f1?style=flat-square&logo=Socket.IO&logoColor=white"/> &ensp;
+
+
+
 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> &ensp;
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> &ensp;
