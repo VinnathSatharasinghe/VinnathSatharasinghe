@@ -64,7 +64,7 @@ ________________________________________________________________________________
 <table align="center">
 <td width="50%" align="center">
 
-<h3 align="center">Connect with Me</h3>
+<h3 align="center">Connect Me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/vinnath-satharasinghe-663642231/?locale=zh_CN" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="vinnathsatharasinghe" height="50" width="50" /></a>
 <a href="https://www.instagram.com/winny_satharasinghe/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
